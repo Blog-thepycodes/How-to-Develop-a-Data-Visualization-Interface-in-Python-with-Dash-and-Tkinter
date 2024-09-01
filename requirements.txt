@@ -1,0 +1,3 @@
+$ pip install dash
+$ pip install plotly
+$ pip install tk
